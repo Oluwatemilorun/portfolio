@@ -83,5 +83,7 @@ In addition, you should add HTTP headers to prevent the contents of the static f
 
 ## Other resources
 > [The webpack guide](http://vuejs-templates.github.io/webpack/)
+
 > [Docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 > [The Vue.js guide](http://vuejs.org/guide/)
